@@ -1,7 +1,13 @@
 
+Groceries
+Bread
+Butter
+Milk
+
 School Supplies
 paper
 pen
 duotang
 notebook
 markers
+
